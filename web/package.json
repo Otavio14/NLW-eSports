@@ -11,21 +11,23 @@
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.0.0",
     "@radix-ui/react-dialog": "^1.0.0",
-    "@radix-ui/react-select": "^1.0.0",
+    "@radix-ui/react-select": "^2.2.6",
     "@radix-ui/react-toggle-group": "^1.0.0",
+    "@tailwindcss/vite": "^4.1.18",
     "axios": "^1.6.5",
     "phosphor-react": "^1.4.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
-    "@types/react": "^18.0.17",
-    "@types/react-dom": "^18.0.6",
-    "@vitejs/plugin-react": "^2.1.0",
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
     "autoprefixer": "^10.4.9",
-    "postcss": "^8.4.16",
-    "tailwindcss": "^3.1.8",
-    "typescript": "^4.6.4",
-    "vite": "^3.2.8"
+    "globals": "^17.0.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.0"
   }
 }
